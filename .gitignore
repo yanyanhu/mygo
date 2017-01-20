@@ -1,0 +1,10 @@
+bin
+build
+models
+*.a
+*.o
+*.swp
+*.swo
+*~
+*.tmp
+*.log
